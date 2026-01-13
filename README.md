@@ -166,7 +166,7 @@ Role: ADMIN
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 * Registration Page
   <img width="1678" height="847" alt="Screenshot 2026-01-13 223829" src="https://github.com/user-attachments/assets/6d3c10f3-f164-458e-ac80-177eacdb8682" />
